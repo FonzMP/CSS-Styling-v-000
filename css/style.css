@@ -34,5 +34,9 @@ figcaption {
 
 #details a:hover {
   color: black;
-  text-decoration: unerline;
+  text-decoration: underline;
+}
+
+#details a:active {
+  color: red;
 }
